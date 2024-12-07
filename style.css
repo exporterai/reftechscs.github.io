@@ -1,0 +1,29 @@
+.nav-logo {
+    color: #437eeb;
+}
+
+.know-more-btn {
+    padding: 15px 30px !important;
+    border: 1px solid #437eeb;
+    background: #437eeb;
+    color: #fff;
+    border-radius: 20px;
+}
+
+/* responsive hero section paragraph text */
+@media (max-width: 768px) {
+
+}
+
+/* footer */
+
+.footer-logo-heading {
+    color: #437eeb;
+}
+
+/* Home page why choose us */
+
+.company-name-about-section {
+    margin: 10px 0;
+    color: #525f81;
+}
