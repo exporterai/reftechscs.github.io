@@ -40,3 +40,17 @@
 }
 
 /* <------------------- image Section ----------------------> */
+
+
+@media (min-width: 768px) {
+    .integrity {
+        margin-top: 25px !important;
+    }
+    .customer {
+        margin-top: 25px !important;
+    }
+    .sustainability {
+        margin-top: 80px !important;
+    }
+    
+}
